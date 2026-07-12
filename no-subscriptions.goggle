@@ -1,6 +1,6 @@
 ! name: No Subscriptions
 ! description: Remove sites that hide content
-! public: true
+! public: false
 ! author: eapi3
 
 ! exam answers are usually on quizlet
@@ -9,3 +9,4 @@ $boost,site=reddit.com
 
 $discard,site=chegg.com
 $discard,site=brainly.com
+$ discard,site=cognitivemetrics.com
