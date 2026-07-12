@@ -9,4 +9,8 @@ $boost,site=reddit.com
 
 $discard,site=chegg.com
 $discard,site=brainly.com
-! $discard,site=cognitivemetrics.com
+$discard,site=coursehero.com
+$discard,site=numerade.com
+$discard,site=quizplus.com
+$discard,site=blacktom.com
+
