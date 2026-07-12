@@ -1,0 +1,11 @@
+! name: No Subscriptions
+! description: Remove sites that hide content
+! public: true
+! author: eapi3
+
+! exam answers are usually on quizlet
+$boost,site=quizlet.com
+$boost,site=reddit.com
+
+$discard,site=chegg.com
+$discard,site=brainly.com
