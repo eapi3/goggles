@@ -9,4 +9,4 @@ $boost,site=reddit.com
 
 $discard,site=chegg.com
 $discard,site=brainly.com
-$discard,site=cognitivemetrics.com
+! $discard,site=cognitivemetrics.com
